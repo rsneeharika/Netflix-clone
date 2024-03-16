@@ -1,4 +1,4 @@
-#Click the link below to checkout the website
+# Click the link below to checkout the website
 
 https://cloning-react-netflix.web.app/
 
